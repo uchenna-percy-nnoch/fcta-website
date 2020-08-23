@@ -1,0 +1,560 @@
+
+---Downloaded files---
+The import files for: iconsult 2 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/fct-pension
+Data file = C:\Apache24\htdocs\fct-pension/wp-content/themes/iconsult/framework/import/two/demo-content-2.xml
+Widget file = C:\Apache24\htdocs\fct-pension/wp-content/themes/iconsult/framework/import/two/widgets-2.wie
+Customizer file = not defined!
+Redux files:
+_iconsult_theme_options_ -> C:\Apache24\htdocs\fct-pension/wp-content/themes/iconsult/framework/import/two/redux-2.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag before you
+[WARNING] Failed to import product_tag Christopher
+[WARNING] Failed to import product_tag connections
+[WARNING] Failed to import product_tag Dare Not Linger
+[WARNING] Failed to import product_tag Darkest Hour
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag lost
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Persepolis I &amp; II
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Silver Moon
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import topic-tag thanks you
+[WARNING] Failed to import product_tag travel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wild girl
+[WARNING] Failed to import product_tag working class man
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_cat E-books
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_cat Friction
+[WARNING] Failed to import product_cat Management
+[WARNING] Failed to import product_cat Travel
+[WARNING] Failed to import "What makes you happy about this company?": Invalid post type forum
+[WARNING] Failed to import "Give Praise": Invalid post type forum
+[WARNING] Failed to import "Suggestions and Feedback": Invalid post type forum
+[WARNING] Failed to import "Share an Idea": Invalid post type forum
+[WARNING] Failed to import "Premium WordPress Themes": Invalid post type forum
+[WARNING] Failed to import "Bind": Invalid post type forum
+[WARNING] Failed to import "Manual": Invalid post type forum
+
+
+---Importing widgets---
+Sidebar : 
+
+Recent Posts - Recent Posts - Imported
+Archives - Archives - Imported
+Tag Cloud - Tags - Imported
+Categories - Categories - Imported
+
+Footer Box 1 : 
+
+Text - iconsult - Imported
+
+Footer Box 2 : 
+
+Text - Company - Imported
+
+Footer Box 3 : 
+
+Text - Services - Imported
+
+Footer Box 4 : 
+
+Text - Contact Details - Imported
+
+KnowledgeBase Sidebar : 
+
+KB Categroy - KB Category - Imported
+KB Articles - Top Rated Articles - Imported
+Tag Cloud - KB Articles Tags - Imported
+Text - Still no luck? We can help! - Imported
+
+FAQ Sidebar : 
+
+FAQ Categroy - FAQ Category - Imported
+Text - Request a Callback - Imported
+
+woocommerce-widget-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_price_filter - Filter By Price - Site does not support widget
+woocommerce_product_categories - Shop By Categories - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+woocommerce_product_tag_cloud - Brand Most Use Tags - Site does not support widget
+
+woocommerce-widgetnav-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Woocommerce Nav Menu - No Title - Imported to Inactive
+
+bbPress : 
+
+bbp_login_widget - Login Forum - Site does not support widget
+Text - Forum Support Policy - Imported
+
+Header - Social Icon : 
+
+iconsult - Social Icons - No Title - Imported
+
+Header - Icon With Text : 
+
+iconsult - Icon With Text - No Title - Imported
+iconsult - Icon With Text - No Title - Imported
+
+Top Header - Icon With Text : 
+
+iconsult - Icon With Text - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: _iconsult_theme_options_ finished successfully!
+
+---pt-ocdi/after_import---
+
